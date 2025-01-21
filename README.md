@@ -35,9 +35,7 @@
 ![linux logo](https://skillicons.dev/icons?i=linux) ![debian logo](https://skillicons.dev/icons?i=debian) ![ubuntu logo](https://skillicons.dev/icons?i=ubuntu)
 
 ## Graphs
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefalnabari&theme=vision-friendly-dark" alt="yousefalnabari" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=yousefalnabari&show_icons=true&locale=en&theme=vision-friendly-dark" alt="yousefalnabari" />
-  <br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefalnabari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="yousefalnabari" />
+  <img width="41.4%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefalnabari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="yousefalnabari" />
 </div>
