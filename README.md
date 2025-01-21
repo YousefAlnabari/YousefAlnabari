@@ -35,7 +35,8 @@
 ![linux logo](https://skillicons.dev/icons?i=linux) ![debian logo](https://skillicons.dev/icons?i=debian) ![ubuntu logo](https://skillicons.dev/icons?i=ubuntu)
 
 ## Graphs
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefalnabari&show_icons=true&locale=en&theme=vision-friendly-dark" alt="yousefalnabari" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefalnabari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="yousefalnabari" />
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yousefalnabari&show_icons=true&locale=en&theme=vision-friendly-dark" alt="yousefalnabari" />
+  <br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefalnabari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="yousefalnabari" />
 </div>
